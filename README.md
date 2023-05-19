@@ -35,3 +35,7 @@ The protocol allows lenders to set a maximum loan-to-value ratio that they would
 ### Generic Utils
 
 Library that contains helper functions used throughout all pools.
+
+## Audit
+
+You can read the smart contracts audit: https://drive.google.com/file/d/1WvR7kY1t7pPHEDYZGEE6k6JWnAEd1I8X/view
