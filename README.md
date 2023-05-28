@@ -38,4 +38,4 @@ Library that contains helper functions used throughout all pools.
 
 ## Audit
 
-You can read the smart contracts audit: https://drive.google.com/file/d/1WvR7kY1t7pPHEDYZGEE6k6JWnAEd1I8X/view
+The smart contracts audit can be found within this repo, or you can visit: https://drive.google.com/file/d/1WvR7kY1t7pPHEDYZGEE6k6JWnAEd1I8X/view
